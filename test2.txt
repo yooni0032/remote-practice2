@@ -1,2 +1,3 @@
 prac2 push 연습
 pull 
+누가와서 내용을 
