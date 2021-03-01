@@ -1,1 +1,2 @@
-prac2 push 연습?
+prac2 push 연습
+pull 
